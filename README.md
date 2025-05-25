@@ -3,7 +3,7 @@
 
 # 🤖 Atendimento por Voz com Python
 
-Este projeto foi desenvolvido para a disciplina Cognitive Environments no curso de MBA em Data Science e Inteligência Artificial. O objetivo é dar voz ao atendimento digital da QuantumFinance, permitindo que o cliente interaja por voz e não apenas por texto.
+Este projeto foi desenvolvido para a disciplina Audio Recognition Workshop no curso de MBA em Data Science e Inteligência Artificial. O objetivo é dar voz ao atendimento digital da QuantumFinance, permitindo que o cliente interaja por voz e não apenas por texto.
 
 🎯 Objetivo  
 Implementar um sistema de atendimento telefônico simulado que:
