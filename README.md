@@ -1,8 +1,8 @@
-# Audio Recognition Workshop
+# 🎤 Audio Recognition Workshop – QuantumFinance
+## Projeto Final - (8DTSR)
 
 # 🤖 Atendimento por Voz com Python
 
-🧠 Projeto Final - Audio Recognition Workshop (8DTSR)  
 Este projeto foi desenvolvido para a disciplina Cognitive Environments no curso de MBA em Data Science e Inteligência Artificial. O objetivo é dar voz ao atendimento digital da QuantumFinance, permitindo que o cliente interaja por voz e não apenas por texto.
 
 🎯 Objetivo  
@@ -37,6 +37,12 @@ Implementar um sistema de atendimento telefônico simulado que:
 4️⃣ Toca o áudio de resposta correspondente para confirmar a escolha.  
 5️⃣ Caso não reconheça, toca áudio de erro e repete as opções.  
 6️⃣ O loop continua até que o usuário diga “sair”.
+
+🎯 Resultados
+
+![Resultado de uma execução](https://github.com/user-attachments/assets/eb16fabd-4485-4483-95d9-5ed55a096b3c)
+
+
 
 # Alunos 👨‍🎓👩‍🎓
 
